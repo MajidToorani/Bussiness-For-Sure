@@ -1,6 +1,6 @@
 {
-    "title": "Business Casual",
-    "name": "startbootstrap-business-casual",
+    "title": "Bussiness For Sure",
+    "name": "Bussiness For Sure",
     "version": "7.0.8",
     "scripts": {
         "build": "npm run clean && npm run build:pug && npm run build:scss && npm run build:scripts && npm run build:assets",
@@ -12,7 +12,7 @@
         "start": "npm run build && node scripts/start.js",
         "start:debug": "npm run build && node scripts/start-debug.js"
     },
-    "description": "A casual HTML website theme for businesses built with Bootstrap",
+    "description": "A Trading Company for Coffee and Cocoa",
     "keywords": [
         "css",
         "sass",
@@ -21,7 +21,7 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/theme/business-casual",
+    "homepage": "https://github.com/MajidToorani/Bussiness-For-Sure",
     "bugs": {
         "url": "https://github.com/StartBootstrap/startbootstrap-business-casual/issues",
         "email": "feedback@startbootstrap.com"
